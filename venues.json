@@ -2,115 +2,179 @@
   {
     "name": "Promoted - Sportsman Lounge",
     "address": "1226 State St, Santa Barbara, CA 93101",
-    "coords": [34.4242, -119.7050],
-    "info": "Neighborhood spot, 21+, serving full bar options with zero-proof beers and alcohol-free cocktails. New-entry - unverified."
+    "coords": [
+      34.4241986,
+      -119.7051633
+    ],
+    "info": "Local hangout spot, 21+, complete bar service, alcohol-free cocktails, non-alcoholic beers."
   },
   {
     "name": "Promoted - Break Time",
     "address": "5977 Encina Rd, Goleta, CA 93117",
-    "coords": [34.442778, -119.829921],
-    "info": "Casual local bar, 21+, offering non-alcoholic choices like mocktails and NA beers alongside its standard menu. New-entry - unverified."
-  },
-  {
-    "name": "Bank of Italy - Cocktail Trust",
-    "address": "394 E Main St, Ventura, CA 93001",
-    "coords": [34.2785, -119.2921],
-    "info": "Historic downtown Ventura bar with seasonal drink menus that include creative mocktails. New-entry - unverified."
-  },
-  {
-    "name": "CAYA Restaurant",
-    "address": "5672 Calle Real, Goleta, CA 93117",
-    "coords": [34.4392, -119.8289],
-    "info": "Upscale restaurant offering a variety of alcohol-free beverages, including house-made mocktails. New-entry - unverified."
-  },
-  {
-    "name": "Coastline Brewing & Taproom",
-    "address": "595 S A St, Oxnard, CA 93030",
-    "coords": [34.1975, -119.1771],
-    "info": "Brewery and tasting room in Oxnard with non-alcoholic drink options alongside traditional brews. New-entry - unverified."
-  },
-  {
-    "name": "Dusk Bar",
-    "address": "524 State St, Santa Barbara, CA 93101",
-    "coords": [34.4195, -119.6982],
-    "info": "Trendy hotel bar featuring alcohol-free cocktails with fresh, local ingredients. New-entry - unverified."
-  },
-  {
-    "name": "La Paloma Café",
-    "address": "702 Anacapa St, Santa Barbara, CA 93101",
-    "coords": [34.4239, -119.6934],
-    "info": "Downtown café with Latin-inspired flavors and refreshing non-alcoholic drink options. New-entry - unverified."
-  },
-  {
-    "name": "Latitude 34",
-    "address": "660 Ventura Blvd Suite 100, Camarillo, CA 93010",
-    "coords": [34.2164, -119.0376],
-    "info": "Stylish Camarillo venue serving cocktails and a selection of house-made mocktails. New-entry - unverified."
-  },
-  {
-    "name": "Milk & Honey Tapas",
-    "address": "30 W Anapamu St, Santa Barbara, CA 93101",
-    "coords": [34.4231, -119.7056],
-    "info": "Tapas restaurant pairing small plates with alcohol-free creations such as citrus spritzers. New-entry - unverified."
-  },
-  {
-    "name": "Oak & Iron",
-    "address": "2967 E Thousand Oaks Blvd, Thousand Oaks, CA 91362",
-    "coords": [34.1703, -118.8745],
-    "info": "Craft cocktail bar known for inventive menus that include seasonal mocktail offerings. New-entry - unverified."
-  },
-  {
-    "name": "Rodeo Room",
-    "address": "231 W Montecito St, Santa Barbara, CA 93101",
-    "coords": [34.4264, -119.7014],
-    "info": "Rustic lounge-style bar serving bold, refreshing alcohol-free beverages. New-entry - unverified."
-  },
-  {
-    "name": "Roof Top Bistro & Bar",
-    "address": "6500 Hollister Ave, Goleta, CA 93117",
-    "coords": [34.4360, -119.8272],
-    "info": "Rooftop setting with panoramic views, offering mocktails and other zero-proof drinks. New-entry - unverified."
-  },
-  {
-    "name": "Sama Sama Kitchen",
-    "address": "1208 State St, Santa Barbara, CA 93101",
-    "coords": [34.4236, -119.7052],
-    "info": "Asian-inspired restaurant featuring fresh mocktail options with unique flavor profiles. New-entry - unverified."
-  },
-  {
-    "name": "The Collection Bar",
-    "address": "2751 Park View Ct, Oxnard, CA 93036",
-    "coords": [34.2190, -119.0536],
-    "info": "Upscale Oxnard location with cocktails and a small menu of non-alcoholic beverages. New-entry - unverified."
-  },
-  {
-    "name": "The Cruisery",
-    "address": "501 State St, Santa Barbara, CA 93101",
-    "coords": [34.4193, -119.6985],
-    "info": "Casual bar and eatery offering a mix of food and vibrant mocktails made with fresh ingredients. New-entry - unverified."
+    "coords": [
+      34.4429072,
+      -119.8298843
+    ],
+    "info": "Local hangout spot, 21+, complete bar service, alcohol-free cocktails, non-alcoholic beers."
   },
   {
     "name": "The Good Lion",
     "address": "1212 State St, Santa Barbara, CA 93101",
-    "coords": [34.4219, -119.7075],
-    "info": "Cocktail bar in the arts district known for rotating seasonal menus that include mocktails. New-entry - unverified."
+    "coords": [
+      34.4237762,
+      -119.7047601
+    ],
+    "info": "New-entry - unverified. Modern cocktail lounge in the Arts & Theater district, offering seasonal alcohol-free cocktails."
   },
   {
     "name": "Test Pilot",
     "address": "211 Helena Ave, Santa Barbara, CA 93101",
-    "coords": [34.4241, -119.6868],
-    "info": "Tiki-inspired bar near the waterfront with tropical-style alcohol-free drinks. New-entry - unverified."
+    "coords": [
+      34.414629,
+      -119.6913546
+    ],
+    "info": "New-entry - unverified. Island-style bar known for tropical alcohol-free cocktails like the Virgin Buccaneer."
+  },
+  {
+    "name": "Dusk Bar",
+    "address": "524 State St, Santa Barbara, CA 93101",
+    "coords": [
+      34.4175929,
+      -119.6961263
+    ],
+    "info": "New-entry - unverified. Trendy bar inside the Drift Hotel, serving herb-infused alcohol-free cocktails."
+  },
+  {
+    "name": "The Cruisery",
+    "address": "501 State St, Santa Barbara, CA 93101",
+    "coords": [
+      34.4166272,
+      -119.6959194
+    ],
+    "info": "New-entry - unverified. Offers vibrant alcohol-free cocktails made with fresh, locally-sourced ingredients."
+  },
+  {
+    "name": "Rodeo Room",
+    "address": "231 W Montecito St, Santa Barbara, CA 93101",
+    "coords": [
+      34.411813,
+      -119.695919
+    ],
+    "info": "New-entry - unverified. Cozy rustic venue with bold mocktail offerings featuring tangy citrus punches."
+  },
+  {
+    "name": "Milk & Honey Tapas",
+    "address": "30 W Anapamu St, Santa Barbara, CA 93101",
+    "coords": [
+      34.422618,
+      -119.7054507
+    ],
+    "info": "New-entry - unverified. Spanish small-plates bar pairing small plates with crafted alcohol-free cocktails like the Fauxito."
+  },
+  {
+    "name": "Sama Sama Kitchen",
+    "address": "1208 State St, Santa Barbara, CA 93101",
+    "coords": [
+      34.423783,
+      -119.7046209
+    ],
+    "info": "New-entry - unverified. Asian fusion inspired cuisine with unique alcohol-free cocktails like lemongrass sodas."
+  },
+  {
+    "name": "La Paloma Caf\u00e9",
+    "address": "702 Anacapa St, Santa Barbara, CA 93101",
+    "coords": [
+      34.4200155,
+      -119.6968823
+    ],
+    "info": "New-entry - unverified. Comfortable caf\u00e9 known for its oat milk horchata and other mocktail options."
   },
   {
     "name": "The Imperial",
     "address": "320 S Kellogg Ave, Goleta, CA 93117",
-    "coords": [34.4329, -119.8273],
-    "info": "1950s-themed speakeasy serving handcrafted mocktails alongside classic cocktails. New-entry - unverified."
+    "coords": [
+      34.4347347,
+      -119.8197359
+    ],
+    "info": "New-entry - unverified. Retro-style speakeasy offering handcrafted alcohol-free cocktails in a nostalgic atmosphere."
+  },
+  {
+    "name": "CAYA Restaurant",
+    "address": "5672 Calle Real, Goleta, CA 93117",
+    "coords": [
+      34.4412018,
+      -119.8219737
+    ],
+    "info": "New-entry - unverified. Refined restaurant serving a Sparkling Lavender Lemonade made with house-made lavender syrup."
+  },
+  {
+    "name": "Roof Top Bistro & Bar",
+    "address": "6500 Hollister Ave, Goleta, CA 93117",
+    "coords": [
+      34.4312241,
+      -119.8555693
+    ],
+    "info": "New-entry - unverified. Rooftop lounge offering craft alcohol-free cocktails with panoramic views of the Santa Ynez Mountains."
+  },
+  {
+    "name": "Bank of Italy - Cocktail Trust",
+    "address": "394 E Main St, Ventura, CA 93001",
+    "coords": [
+      34.2807308,
+      -119.2948552
+    ],
+    "info": "New-entry - unverified. Landmark cocktail venue offering Italian-inspired alcohol-free cocktails like 'A Spa Day' and 'Vacation by the Sea'."
+  },
+  {
+    "name": "VenTiki Tiki Lounge and Lanai",
+    "address": "701 E Main St, Ventura, CA 93001",
+    "coords": [
+      34.2809801,
+      -119.2899018
+    ],
+    "info": "New-entry - unverified. Tropical-themed bar known for tropical alcohol-free cocktails in a Polynesian-themed setting."
   },
   {
     "name": "The Twist on Main",
     "address": "454 E Main St, Ventura, CA 93001",
-    "coords": [34.2785, -119.2921],
-    "info": "Downtown Ventura bar offering original cocktails plus creative mocktail choices. New-entry - unverified."
+    "coords": [
+      34.2805485,
+      -119.2938685
+    ],
+    "info": "New-entry - unverified. Creative drink lounge offering creative alcohol-free cocktails like 'Run Run Rudolph' and 'Strawberry Fields'."
+  },
+  {
+    "name": "Oak & Iron",
+    "address": "1965 E Daily Dr, Camarillo, CA 93010",
+    "coords": [
+      34.219317,
+      -119.0658464
+    ],
+    "info": "New-entry - unverified. Contemporary bar offering a selection of alcohol-free cocktails."
+  },
+  {
+    "name": "Latitude 34",
+    "address": "660 Ventura Blvd Suite 100, Camarillo, CA 93010",
+    "coords": 34.217136, -119.065816
+    ],
+    "info": "New-entry - unverified. Bar known for its creative alcohol-free cocktails."
+  },
+  {
+    "name": "The Collection Bar",
+    "address": "2751 Park View Ct, Oxnard, CA 93036",
+    "coords": [
+      34.2381589,
+      -119.1780929
+    ],
+    "info": "New-entry - unverified. High-end bar offering mocktail options."
+  },
+  {
+    "name": "Coastline Brewing & Taproom",
+    "address": "Oxnard, CA",
+    "coords": [
+      34.1976308,
+      -119.180381
+    ],
+    "info": "New-entry - unverified. Craft brewery with non-alcoholic craft drinks."
   }
 ]
