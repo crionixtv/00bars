@@ -1,15 +1,93 @@
 [
   {
-    "name": "Sportsman Lounge",
+    "name": "Promoted - Sportsman Lounge",
     "address": "1226 State St, Santa Barbara, CA 93101",
     "coords": [34.4242, -119.7050],
     "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
   },
   {
-    "name": "Break Time",
+    "name": "Promoted - Break Time",
     "address": "5977 Encina Rd, Goleta, CA 93117",
     "coords": [34.442778, -119.829921],
     "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
+  },
+  {
+    "name": "Bank of Italy - Cocktail Trust",
+    "address": "394 E Main St, Ventura, CA 93001",
+    "coords": [34.2785, -119.2921],
+    "info": "New-entry - unverified. Historic bar offering Italian-inspired mocktails like 'A Spa Day' and 'Vacation by the Sea'."
+  },
+  {
+    "name": "CAYA Restaurant",
+    "address": "5672 Calle Real, Goleta, CA 93117",
+    "coords": [34.4392, -119.8289],
+    "info": "New-entry - unverified. Upscale eatery serving a Sparkling Lavender Lemonade made with house-made lavender syrup."
+  },
+  {
+    "name": "Coastline Brewing & Taproom",
+    "address": "595 S A St, Oxnard, CA 93030",
+    "coords": [34.1975, -119.1771],
+    "info": "New-entry - unverified. Brewery with non-alcoholic craft drinks."
+  },
+  {
+    "name": "Dusk Bar",
+    "address": "524 State St, Santa Barbara, CA 93101",
+    "coords": [34.4195, -119.6982],
+    "info": "New-entry - unverified. Chic bar inside the Drift Hotel, serving herb-infused mocktails."
+  },
+  {
+    "name": "La Paloma Café",
+    "address": "702 Anacapa St, Santa Barbara, CA 93101",
+    "coords": [34.4239, -119.6934],
+    "info": "New-entry - unverified. Cozy café known for its oat milk horchata and other mocktail options."
+  },
+  {
+    "name": "Latitude 34",
+    "address": "660 Ventura Blvd Suite 100, Camarillo, CA 93010",
+    "coords": [34.2164, -119.0376],
+    "info": "New-entry - unverified. Bar known for its creative mocktails."
+  },
+  {
+    "name": "Milk & Honey Tapas",
+    "address": "30 W Anapamu St, Santa Barbara, CA 93101",
+    "coords": [34.4231, -119.7056],
+    "info": "New-entry - unverified. Tapas bar pairing small plates with crafted mocktails like the Fauxito."
+  },
+  {
+    "name": "Oak & Iron",
+    "address": "2967 E Thousand Oaks Blvd, Thousand Oaks, CA 91362",
+    "coords": [34.1703, -118.8745],
+    "info": "New-entry - unverified. Modern bar offering a selection of mocktails."
+  },
+  {
+    "name": "Rodeo Room",
+    "address": "231 W Montecito St, Santa Barbara, CA 93101",
+    "coords": [34.4264, -119.7014],
+    "info": "New-entry - unverified. Rustic bar with bold mocktail offerings featuring tangy citrus punches."
+  },
+  {
+    "name": "Roof Top Bistro & Bar",
+    "address": "6500 Hollister Ave, Goleta, CA 93117",
+    "coords": [34.4360, -119.8272],
+    "info": "New-entry - unverified. Open-air rooftop bar offering craft mocktails with panoramic views of the Santa Ynez Mountains."
+  },
+  {
+    "name": "Sama Sama Kitchen",
+    "address": "1208 State St, Santa Barbara, CA 93101",
+    "coords": [34.4236, -119.7052],
+    "info": "New-entry - unverified. Southeast Asian-inspired cuisine with unique mocktails like lemongrass sodas."
+  },
+  {
+    "name": "The Collection Bar",
+    "address": "2751 Park View Ct, Oxnard, CA 93036",
+    "coords": [34.2190, -119.0536],
+    "info": "New-entry - unverified. Upscale bar offering mocktail options."
+  },
+  {
+    "name": "The Cruisery",
+    "address": "501 State St, Santa Barbara, CA 93101",
+    "coords": [34.4193, -119.6985],
+    "info": "New-entry - unverified. Offers vibrant mocktails made with fresh, locally-sourced ingredients."
   },
   {
     "name": "The Good Lion",
@@ -24,99 +102,15 @@
     "info": "New-entry - unverified. Tiki-inspired bar known for tropical mocktails like the Virgin Buccaneer."
   },
   {
-    "name": "Dusk Bar",
-    "address": "524 State St, Santa Barbara, CA 93101",
-    "coords": [34.4195, -119.6982],
-    "info": "New-entry - unverified. Chic bar inside the Drift Hotel, serving herb-infused mocktails."
-  },
-  {
-    "name": "The Cruisery",
-    "address": "501 State St, Santa Barbara, CA 93101",
-    "coords": [34.4193, -119.6985],
-    "info": "New-entry - unverified. Offers vibrant mocktails made with fresh, locally-sourced ingredients."
-  },
-  {
-    "name": "Rodeo Room",
-    "address": "231 W Montecito St, Santa Barbara, CA 93101",
-    "coords": [34.4264, -119.7014],
-    "info": "New-entry - unverified. Rustic bar with bold mocktail offerings featuring tangy citrus punches."
-  },
-  {
-    "name": "Milk & Honey Tapas",
-    "address": "30 W Anapamu St, Santa Barbara, CA 93101",
-    "coords": [34.4231, -119.7056],
-    "info": "New-entry - unverified. Tapas bar pairing small plates with crafted mocktails like the Fauxito."
-  },
-  {
-    "name": "Sama Sama Kitchen",
-    "address": "1208 State St, Santa Barbara, CA 93101",
-    "coords": [34.4236, -119.7052],
-    "info": "New-entry - unverified. Southeast Asian-inspired cuisine with unique mocktails like lemongrass sodas."
-  },
-  {
-    "name": "La Paloma Café",
-    "address": "702 Anacapa St, Santa Barbara, CA 93101",
-    "coords": [34.4239, -119.6934],
-    "info": "New-entry - unverified. Cozy café known for its oat milk horchata and other mocktail options."
-  },
-  {
     "name": "The Imperial",
     "address": "320 S Kellogg Ave, Goleta, CA 93117",
     "coords": [34.4329, -119.8273],
     "info": "New-entry - unverified. Vintage 1950s-style speakeasy offering handcrafted mocktails in a nostalgic atmosphere."
   },
   {
-    "name": "CAYA Restaurant",
-    "address": "5672 Calle Real, Goleta, CA 93117",
-    "coords": [34.4392, -119.8289],
-    "info": "New-entry - unverified. Upscale eatery serving a Sparkling Lavender Lemonade made with house-made lavender syrup."
-  },
-  {
-    "name": "Roof Top Bistro & Bar",
-    "address": "6500 Hollister Ave, Goleta, CA 93117",
-    "coords": [34.4360, -119.8272],
-    "info": "New-entry - unverified. Open-air rooftop bar offering craft mocktails with panoramic views of the Santa Ynez Mountains."
-  },
-  {
-    "name": "Bank of Italy - Cocktail Trust",
-    "address": "394 E Main St, Ventura, CA 93001",
-    "coords": [34.2785, -119.2921],
-    "info": "New-entry - unverified. Historic bar offering Italian-inspired mocktails like 'A Spa Day' and 'Vacation by the Sea'."
-  },
-  {
-    "name": "VenTiki Tiki Lounge and Lanai",
-    "address": "701 E Main St, Ventura, CA 93001",
-    "coords": [34.2785, -119.2921],
-    "info": "New-entry - unverified. Tiki bar known for tropical mocktails in a Polynesian-themed setting."
-  },
-  {
     "name": "The Twist on Main",
     "address": "454 E Main St, Ventura, CA 93001",
     "coords": [34.2785, -119.2921],
     "info": "New-entry - unverified. Cocktail bar offering creative mocktails like 'Run Run Rudolph' and 'Strawberry Fields'."
-  },
-  {
-    "name": "Oak & Iron",
-    "address": "Camarillo, CA",
-    "coords": [34.2182, -119.0376],
-    "info": "New-entry - unverified. Modern bar offering a selection of mocktails."
-  },
-  {
-    "name": "Latitude 34",
-    "address": "Camarillo, CA",
-    "coords": [34.2182, -119.0376],
-    "info": "New-entry - unverified. Bar known for its creative mocktails."
-  },
-  {
-    "name": "The Collection Bar",
-    "address": "Oxnard, CA",
-    "coords": [34.1975, -119.1771],
-    "info": "New-entry - unverified. Upscale bar offering mocktail options."
-  },
-  {
-    "name": "Coastline Brewing & Taproom",
-    "address": "Oxnard, CA",
-    "coords": [34.1975, -119.1771],
-    "info": "New-entry - unverified. Brewery with non-alcoholic craft drinks."
   }
 ]
