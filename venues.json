@@ -2,13 +2,55 @@
   {
     "name": "Sportsman Lounge",
     "address": "1226 State St, Santa Barbara, CA 93101",
-    "coords": [34.4242, -119.7050],
+    "coords": [
+      34.4242,
+      -119.705
+    ],
     "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
   },
   {
     "name": "Break Time",
     "address": "5977 Encina Rd, Goleta, CA 93117",
-    "coords": [34.442778, -119.829921],
+    "coords": [
+      34.442778,
+      -119.829921
+    ],
     "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
+  },
+  {
+    "name": "Oak & Iron",
+    "address": "Camarillo, CA",
+    "coords": [
+      34.2182,
+      -119.0376
+    ],
+    "info": "New-entry - unverified. Modern bar offering a selection of mocktails."
+  },
+  {
+    "name": "Latitude 34",
+    "address": "Camarillo, CA",
+    "coords": [
+      34.2182,
+      -119.0376
+    ],
+    "info": "New-entry - unverified. Bar known for its creative mocktails."
+  },
+  {
+    "name": "The Collection Bar",
+    "address": "Oxnard, CA",
+    "coords": [
+      34.1975,
+      -119.1771
+    ],
+    "info": "New-entry - unverified. Upscale bar offering mocktail options."
+  },
+  {
+    "name": "Coastline Brewing & Taproom",
+    "address": "Oxnard, CA",
+    "coords": [
+      34.1975,
+      -119.1771
+    ],
+    "info": "New-entry - unverified. Brewery with non-alcoholic craft drinks."
   }
 ]
