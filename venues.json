@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sportsman Lounge",
+    "address": "1226 State St, Santa Barbara, CA 93101",
+    "coords": [34.4242, -119.7050],
+    "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
+  },
+  {
+    "name": "Break Time",
+    "address": "5977 Encina Rd, Goleta, CA 93117",
+    "coords": [34.442778, -119.829921],
+    "info": "Neighborhood Bar, 21+, full bar, mocktails, zero-proof beers."
+  }
+]
