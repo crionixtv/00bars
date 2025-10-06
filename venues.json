@@ -2,8 +2,8 @@
   {
     "id": "sportsman-lounge-sb",
     "name": "Sportsman Lounge",
-    "promoted": true,
-    "sponsored": false,
+    "promoted": false,
+    "sponsored": true,
     "address": "1226 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
