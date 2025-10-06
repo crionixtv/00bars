@@ -13,10 +13,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["local", "21+", "alcohol-free"],
     "emoji": "🍸",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "break-time-goleta",
@@ -32,10 +33,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["local", "21+", "alcohol-free"],
     "emoji": "🍹",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "bank-of-italy-ventura",
@@ -51,10 +53,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["cocktail", "italian", "alcohol-free"],
     "emoji": "🍹",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "caya-restaurant-goleta",
@@ -70,10 +73,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["restaurant", "mocktail", "refined"],
     "emoji": "🍋",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "coastline-brewing-oxnard",
@@ -89,10 +93,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["brewery", "alcohol-free", "craft"],
     "emoji": "🍺",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "dusk-bar-sb",
@@ -108,10 +113,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["trendy", "hotel", "alcohol-free"],
     "emoji": "🌙",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "la-paloma-cafe-sb",
@@ -127,10 +133,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["cafe", "mocktail", "cozy"],
     "emoji": "☕",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "latitude-34-camarillo",
@@ -146,10 +153,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "creative", "alcohol-free"],
     "emoji": "🍹",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "milk-and-honey-sb",
@@ -165,10 +173,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "spanish", "alcohol-free"],
     "emoji": "🥂",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "oak-and-iron-camarillo",
@@ -184,10 +193,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "contemporary", "alcohol-free"],
     "emoji": "🍹",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "rodeo-room-sb",
@@ -203,10 +213,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "cozy", "alcohol-free"],
     "emoji": "🏡",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "roof-top-bistro-goleta",
@@ -222,10 +233,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "rooftop", "alcohol-free"],
     "emoji": "🌆",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "sama-sama-kitchen-sb",
@@ -241,10 +253,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["restaurant", "asian-fusion", "alcohol-free"],
     "emoji": "🍵",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "the-collection-bar-oxnard",
@@ -260,10 +273,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "high-end", "alcohol-free"],
     "emoji": "🏛️",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "the-cruisery-sb",
@@ -279,10 +293,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "vibrant", "alcohol-free"],
     "emoji": "🌿",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "the-good-lion-sb",
@@ -298,10 +313,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "modern", "alcohol-free"],
     "emoji": "🦁",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "the-imperial-goleta",
@@ -317,10 +333,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "speakeasy", "alcohol-free"],
     "emoji": "🏰",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "the-twist-on-main-ventura",
@@ -336,10 +353,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "creative", "alcohol-free"],
     "emoji": "🍹",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "test-pilot-sb",
@@ -355,10 +373,11 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "tropical", "alcohol-free"],
     "emoji": "✈️",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   },
   {
     "id": "ventiki-tiki-lounge-ventura",
@@ -374,9 +393,10 @@
     "website": "",
     "phone": "",
     "hours": "",
-    "ratings": { "average": 0, "count": 0 },
     "tags": ["bar", "tiki", "alcohol-free"],
     "emoji": "🌴",
-    "featuredDrinks": []
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
   }
 ]
