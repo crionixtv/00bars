@@ -23,8 +23,8 @@
   {
     "id": "break-time-goleta",
     "name": "Break Time",
-    "promoted": true,
-    "featured": false,
+    "promoted": false,
+    "featured": true,
     "address": "5977 Encina Rd, Goleta, CA 93117",
     "city": "Goleta",
     "state": "CA",
