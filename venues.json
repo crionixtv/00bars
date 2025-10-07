@@ -2,12 +2,10 @@
   {
     "id": "sportsman-lounge-sb",
     "name": "Sportsman Lounge",
-    "promoted": true,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "1226 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -27,12 +25,10 @@
   {
     "id": "break-time-goleta",
     "name": "Break Time",
-    "promoted": false,
-    "featured": true,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "5977 Encina Rd, Goleta, CA 93117",
     "city": "Goleta",
     "state": "CA",
@@ -52,12 +48,10 @@
   {
     "id": "bank-of-italy-ventura",
     "name": "Bank of Italy - Cocktail Trust",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "394 E Main St, Ventura, CA 93001",
     "city": "Ventura",
     "state": "CA",
@@ -77,12 +71,10 @@
   {
     "id": "caya-restaurant-goleta",
     "name": "CAYA Restaurant",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "5672 Calle Real, Goleta, CA 93117",
     "city": "Goleta",
     "state": "CA",
@@ -102,12 +94,10 @@
   {
     "id": "coastline-brewing-oxnard",
     "name": "Coastline Brewing & Taproom",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "Oxnard, CA",
     "city": "Oxnard",
     "state": "CA",
@@ -127,12 +117,10 @@
   {
     "id": "dusk-bar-sb",
     "name": "Dusk Bar",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "524 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -152,12 +140,10 @@
   {
     "id": "la-paloma-cafe-sb",
     "name": "La Paloma Café",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "702 Anacapa St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -177,12 +163,10 @@
   {
     "id": "latitude-34-camarillo",
     "name": "Latitude 34",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "660 Ventura Blvd Suite 100, Camarillo, CA 93010",
     "city": "Camarillo",
     "state": "CA",
@@ -202,12 +186,10 @@
   {
     "id": "milk-and-honey-sb",
     "name": "Milk & Honey Tapas",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "30 W Anapamu St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -227,12 +209,10 @@
   {
     "id": "oak-and-iron-camarillo",
     "name": "Oak & Iron",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "1965 E Daily Dr, Camarillo, CA 93010",
     "city": "Camarillo",
     "state": "CA",
@@ -252,12 +232,10 @@
   {
     "id": "rodeo-room-sb",
     "name": "Rodeo Room",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "231 W Montecito St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -277,12 +255,10 @@
   {
     "id": "roof-top-bistro-goleta",
     "name": "Roof Top Bistro & Bar",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "6500 Hollister Ave, Goleta, CA 93117",
     "city": "Goleta",
     "state": "CA",
@@ -302,12 +278,10 @@
   {
     "id": "sama-sama-kitchen-sb",
     "name": "Sama Sama Kitchen",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "1208 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -327,12 +301,10 @@
   {
     "id": "the-collection-bar-oxnard",
     "name": "The Collection Bar",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "2751 Park View Ct, Oxnard, CA 93036",
     "city": "Oxnard",
     "state": "CA",
@@ -352,12 +324,10 @@
   {
     "id": "the-cruisery-sb",
     "name": "The Cruisery",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "501 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -377,12 +347,10 @@
   {
     "id": "the-good-lion-sb",
     "name": "The Good Lion",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "1212 State St, Santa Barbara, CA 93101",
     "city": "Santa Barbara",
     "state": "CA",
@@ -402,12 +370,10 @@
   {
     "id": "the-imperial-goleta",
     "name": "The Imperial",
-    "promoted": false,
-    "featured": false,
     "venueadded": "2025-10-06",
     "venueconfirmed": null,
     "promoteduntil": "2025-10-06",
-    "featureduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
     "address": "320 S Kellogg Ave, Goleta, CA 93117",
     "city": "Goleta",
     "state": "CA",
@@ -425,4 +391,72 @@
     "facebook": ""
   },
   {
-   
+    "id": "the-twist-on-main-ventura",
+    "name": "The Twist on Main",
+    "venueadded": "2025-10-06",
+    "venueconfirmed": null,
+    "promoteduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
+    "address": "454 E Main St, Ventura, CA 93001",
+    "city": "Ventura",
+    "state": "CA",
+    "zipcode": "93001",
+    "coords": [34.2805485, -119.2938685],
+    "info": "New-entry - unverified. Creative drink lounge offering creative alcohol-free cocktails like 'Run Run Rudolph' and 'Strawberry Fields'.",
+    "venueType": "Bar",
+    "website": "",
+    "phone": "",
+    "hours": "",
+    "tags": ["bar", "creative", "alcohol-free"],
+    "emoji": "🍹",
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
+  },
+  {
+    "id": "test-pilot-sb",
+    "name": "Test Pilot",
+    "venueadded": "2025-10-06",
+    "venueconfirmed": null,
+    "promoteduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
+    "address": "211 Helena Ave, Santa Barbara, CA 93101",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zipcode": "93101",
+    "coords": [34.414629, -119.6913546],
+    "info": "New-entry - unverified. Island-style bar known for tropical alcohol-free cocktails like the Virgin Buccaneer.",
+    "venueType": "Bar",
+    "website": "",
+    "phone": "",
+    "hours": "",
+    "tags": ["bar", "tropical", "alcohol-free"],
+    "emoji": "✈️",
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
+  },
+  {
+    "id": "ventiki-tiki-lounge-ventura",
+    "name": "VenTiki Tiki Lounge and Lanai",
+    "venueadded": "2025-10-06",
+    "venueconfirmed": null,
+    "promoteduntil": "2025-10-06",
+    "featureduntil": "2025-10-06"
+    "address": "701 E Main St, Ventura, CA 93001",
+    "city": "Ventura",
+    "state": "CA",
+    "zipcode": "93001",
+    "coords": [34.2809801, -119.2899018],
+    "info": "New-entry - unverified. Tropical-themed bar known for tropical alcohol-free cocktails in a Polynesian-themed setting.",
+    "venueType": "Bar",
+    "website": "",
+    "phone": "",
+    "hours": "",
+    "tags": ["bar", "tiki", "alcohol-free"],
+    "emoji": "🌴",
+    "featuredDrinks": [],
+    "instagram": "",
+    "facebook": ""
+  }
+]
